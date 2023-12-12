@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chenyu Wang, from Beijing, China.
+- 👋 Hi, I’m hanhan Chenyu Wang, from Beijing, China.
 - 👨‍🎓 I'm pursuing Bachelor's degrees of Science in Statistics and Science in Economics.
 - 🌱 I’m currently learning quantitative trading and statistical learning.
 - 📰 I'm currently doing resaerch on 'Stochastic Volatility Models Driven by $L\'evy$ Process' advised by Prof. Chenxu Li, and 'Copula Methods in Finance' advised by Prof. Jingping Yang.
